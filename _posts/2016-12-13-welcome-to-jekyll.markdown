@@ -1,25 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-12-13 00:01:20 -0500
+title:  "\"Could you hand me ...\""
+date:   2016-12-13 00:45:20 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I've been a dad for 3 days, 20 hours, 45 minutes and 43 seconds. It certainly doesn't take long to start seeing patterns however. The first pattern I have noticed is I'm constantly being asked for/todo things (Could you hand me X). I have spent 70% of my time helping my wife out and the other 30% of the time feeling guilty that I can't help her more than I do.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Spending 30% of my time feeling guilty wasn't going to cut it for me so in my sleep deprived state I decided to set out on a journey to help my wife in creative ways. Prior to child birth (PCB - not the spring break one) I spent nearly all my time building gadgets and playing with open source software so that seemed like the first logical place to start. This blog will serve as the journal to my numerous attempts to build devices and software that will hopefully help my wife with that other 30%.
