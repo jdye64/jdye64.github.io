@@ -2,7 +2,7 @@
 layout: post
 title:  "\"Could you hand me ...\""
 date:   2016-12-13 00:45:20 -0500
-categories: jekyll update
+categories: Apache MiNiFi-CPP
 ---
 
 I've been a dad for 3 days, 20 hours, 45 minutes and 43 seconds. It certainly doesn't take long to start seeing patterns however. The first pattern I have noticed is I'm constantly being asked for/todo things (Could you hand me X). I have spent 70% of my time helping my wife out and the other 30% of the time feeling guilty that I can't help her more than I do.
