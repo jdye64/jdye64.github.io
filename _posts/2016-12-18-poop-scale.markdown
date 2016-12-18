@@ -13,6 +13,6 @@ One of my first observations being a father is the insane amount of time my wife
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NObOFfeHCJs
 " target="_blank"><img src="http://img.youtube.com/vi/NObOFfeHCJs/0.jpg" 
-alt="Apache MiNiFi-CPP Poopy Diaper Scale" width="240" height="180" border="10" /></a>
+alt="Apache MiNiFi-CPP Poopy Diaper Scale" width="480" height="240" border="5" /></a>
 
 Unfortunately the code for LibUSB is LGPL licensed so it is incompatible with the ASVL2 license that Apache MiNiFi-CPP uses so I am not able to contribute it to Apache MiNiFi-CPP project at this time. However anyone interested can view the code and get ideas or slightly modify it for use on their own. [GetUSB.cpp source code](https://github.com/jdye64/nifi-minifi-cpp/blob/libusb/libminifi/src/GetUSB.cpp)
