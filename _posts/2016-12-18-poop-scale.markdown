@@ -5,7 +5,7 @@ date:   2016-12-18 15:58:20 -0500
 categories: Apache MiNiFi-CPP
 ---
 
-One of my first observations being a father is the insane amount of time my wife and I spend discussing poopy diapers. It is a gross necessary detail of being a parent. My pediatrician (also a giant nerd like myself) recommended an IOS app where we could keep track of such primitive details and then share that data with him at visits. While my wife applauded his suggestion I couldn't help but think there had to be a better way to do this in 2016 than an app. Long story short their isn't. However this did get the wheels turning in my head. I have been spending a good bit of time lately working with Apache MiNiFi-CPP and thought this a great opportunity to show off the power of a CPP version of Apache MiNiFi.
+One of my first observations being a father is the insane amount of time my wife and I spend discussing poopy diapers. It is a gross but necessary detail of being a parent. My pediatrician (also a giant nerd like myself) recommended an IOS app where we could keep track of such primitive details and then share that data with him at visits. While my wife applauded his suggestion I couldn't help but think there had to be a better way to do this in 2016 than an app. Long story short their isn't. However this did get the wheels turning in my head. I have been spending a good bit of time lately working with Apache MiNiFi-CPP and thought this a great opportunity to show off the power of the CPP version of Apache MiNiFi.
 
 ![USB Poop Scale Architecture](https://raw.githubusercontent.com/jdye64/jdye64.github.io/master/assets/images/USB_Poop_Scale_Architecture.png)
 
